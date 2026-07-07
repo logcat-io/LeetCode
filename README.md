@@ -8,10 +8,7 @@
 | [0217-contains-duplicate](https://github.com/devRnR/coding-test/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/devRnR/coding-test/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/devRnR/coding-test/tree/master/0496-next-greater-element-i) |
-## Prefix Sum
-|  |
-| ------- |
-| [0238-product-of-array-except-self](https://github.com/devRnR/coding-test/tree/master/0238-product-of-array-except-self) |
+
 ## String
 |  |
 | ------- |
@@ -120,6 +117,7 @@
 | [0198-house-robber](https://github.com/devRnR/coding-test/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/devRnR/coding-test/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/devRnR/coding-test/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/devRnR/coding-test/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/devRnR/coding-test/tree/master/0322-coin-change) |
 | [0496-next-greater-element-i](https://github.com/devRnR/coding-test/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/devRnR/coding-test/tree/master/0503-next-greater-element-ii) |
@@ -139,4 +137,15 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/devRnR/coding-test/tree/master/0002-add-two-numbers) |
 | [0622-design-circular-queue](https://github.com/devRnR/coding-test/tree/master/0622-design-circular-queue) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/devRnR/coding-test/tree/master/0303-range-sum-query-immutable) |
+| [0622-design-circular-queue](https://github.com/devRnR/coding-test/tree/master/0622-design-circular-queue) |
+| [0933-number-of-recent-calls](https://github.com/devRnR/coding-test/tree/master/0933-number-of-recent-calls) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/devRnR/coding-test/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/devRnR/coding-test/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
