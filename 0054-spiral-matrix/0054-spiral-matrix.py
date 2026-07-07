@@ -23,9 +23,9 @@ class Solution:
 
             ans.append(matrix[r][c])
             matrix[r][c] = -999
-            r = nr
-            c = nc
+            r,c = nr, nc
             cnt = 0
+        
         ans.append(matrix[r][c])
         return ans
 
