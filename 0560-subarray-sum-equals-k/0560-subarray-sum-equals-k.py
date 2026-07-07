@@ -1,8 +1,8 @@
 from collections import defaultdict
 class Solution:
     def subarraySum(self, nums: List[int], k: int) -> int:
-        ans = 0
         d = defaultdict(int)
+        ans = 0
         d[0] = 1
         prefix = 0
 
