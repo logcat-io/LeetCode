@@ -116,6 +116,7 @@
 | [0622-design-circular-queue](https://github.com/devRnR/coding-test/tree/master/0622-design-circular-queue) |
 | [0724-find-pivot-index](https://github.com/devRnR/coding-test/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/devRnR/coding-test/tree/master/0739-daily-temperatures) |
+| [1480-running-sum-of-1d-array](https://github.com/devRnR/coding-test/tree/master/1480-running-sum-of-1d-array) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -142,6 +143,7 @@
 | [0303-range-sum-query-immutable](https://github.com/devRnR/coding-test/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/devRnR/coding-test/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/devRnR/coding-test/tree/master/0724-find-pivot-index) |
+| [1480-running-sum-of-1d-array](https://github.com/devRnR/coding-test/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
