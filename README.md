@@ -108,6 +108,7 @@
 | [0217-contains-duplicate](https://github.com/devRnR/coding-test/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/devRnR/coding-test/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/devRnR/coding-test/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/devRnR/coding-test/tree/master/0304-range-sum-query-2d-immutable) |
 | [0322-coin-change](https://github.com/devRnR/coding-test/tree/master/0322-coin-change) |
 | [0496-next-greater-element-i](https://github.com/devRnR/coding-test/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/devRnR/coding-test/tree/master/0503-next-greater-element-ii) |
@@ -135,6 +136,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/devRnR/coding-test/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/devRnR/coding-test/tree/master/0304-range-sum-query-2d-immutable) |
 | [0622-design-circular-queue](https://github.com/devRnR/coding-test/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/devRnR/coding-test/tree/master/0933-number-of-recent-calls) |
 ## Prefix Sum
@@ -142,6 +144,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/devRnR/coding-test/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/devRnR/coding-test/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/devRnR/coding-test/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/devRnR/coding-test/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/devRnR/coding-test/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/devRnR/coding-test/tree/master/1480-running-sum-of-1d-array) |
@@ -160,6 +163,7 @@
 | [0048-rotate-image](https://github.com/devRnR/coding-test/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/devRnR/coding-test/tree/master/0054-spiral-matrix) |
 | [0085-maximal-rectangle](https://github.com/devRnR/coding-test/tree/master/0085-maximal-rectangle) |
+| [0304-range-sum-query-2d-immutable](https://github.com/devRnR/coding-test/tree/master/0304-range-sum-query-2d-immutable) |
 ## Simulation
 |  |
 | ------- |
