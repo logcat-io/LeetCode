@@ -102,6 +102,7 @@
 | [0001-two-sum](https://github.com/devRnR/coding-test/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/devRnR/coding-test/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/devRnR/coding-test/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/devRnR/coding-test/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/devRnR/coding-test/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/devRnR/coding-test/tree/master/0085-maximal-rectangle) |
 | [0198-house-robber](https://github.com/devRnR/coding-test/tree/master/0198-house-robber) |
@@ -153,6 +154,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/devRnR/coding-test/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/devRnR/coding-test/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/devRnR/coding-test/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/devRnR/coding-test/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/devRnR/coding-test/tree/master/0496-next-greater-element-i) |
@@ -162,6 +164,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/devRnR/coding-test/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/devRnR/coding-test/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/devRnR/coding-test/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/devRnR/coding-test/tree/master/0085-maximal-rectangle) |
 | [0304-range-sum-query-2d-immutable](https://github.com/devRnR/coding-test/tree/master/0304-range-sum-query-2d-immutable) |
 ## Simulation
