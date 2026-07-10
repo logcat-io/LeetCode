@@ -3,10 +3,10 @@ class Solution:
         n = len(nums)
         ans = [1] *  n
 
-        left = nums[0]
-        for i in range(1, n):
-            ans[i] = ans[i-1] * left
-            left = nums[i]
+        left = 1
+        for i in range(n):
+            ans[i] = left
+            left *= nums[i]
 
         right = 1
         for i in range(n-1,-1,-1):
