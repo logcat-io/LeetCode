@@ -3,15 +3,16 @@ class Solution:
         n = len(nums)
         ans = [1] *  n
 
-        left = 1
-        for i, v in enumerate(nums):
-            ans[i] = left
-            left *= v
-        
+        left = nums[0]
+        for i in range(1, n):
+            ans[i] = ans[i-1] * left
+            left = nums[i]
+            print("left: ", left)
+
         right = 1
-        for i in range(n -1, -1, -1):
+        for i in range(n-1,-1,-1):
             ans[i] *= right
             right *= nums[i]
-
+        
         return ans
         
