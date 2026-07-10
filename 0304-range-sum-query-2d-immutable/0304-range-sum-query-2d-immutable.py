@@ -3,27 +3,27 @@ class NumMatrix:
     def __init__(self, matrix: List[List[int]]):
         self.n = len(matrix)
         self.m = len(matrix[0])
-        self.map = matrix
+        self.board = matrix
 
         for i in range(self.n):
             for j in range(1, self.m):
-                self.map[i][j] += self.map[i][j-1]
-        
-        for i in range(1, self.n):
-            for j in range(self.m):
-                self.map[i][j] += self.map[i-1][j]
+                self.board[i][j] = self.board[i][j-1] + self.board[i][j]
+
+        for i in range(self.m):
+            for j in range(1, self.n):
+                self.board[j][i] = self.board[j-1][i] + self.board[j][i]
 
     def sumRegion(self, row1: int, col1: int, row2: int, col2: int) -> int:
-        total = self.map[row2][col2] 
+        total = self.board[row2][col2]
 
         if col1 - 1 >= 0:
-            total -= self.map[row2][col1-1]
+            total -= self.board[row2][col1-1]
         
         if row1 - 1 >= 0:
-            total -= self.map[row1-1][col2]
+            total -= self.board[row1-1][col2]
         
-        if row1 -1 >= 0 and col1-1 >= 0:
-            total += self.map[row1-1][col1-1]
+        if row1 -1 >= 0 and col1 - 1 >= 0:
+            total += self.board[row1-1][col1-1]
 
         return  total
         
