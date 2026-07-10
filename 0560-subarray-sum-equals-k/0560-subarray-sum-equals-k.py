@@ -1,14 +1,19 @@
 from collections import defaultdict
+
 class Solution:
     def subarraySum(self, nums: List[int], k: int) -> int:
-        d = defaultdict(int)
+        n = len(nums)
         ans = 0
-        d[0] = 1
+        memo = defaultdict(int)
+        memo[0] = 1
+        # k = prefix[r+1] - prefix[l]
+        # prefix[r+1] - k = prefix[l]
+        
         prefix = 0
 
-        for n in nums:
-            prefix += n
-            ans += d[prefix - k]
-            d[prefix] += 1
-
+        for i in range(n):
+            prefix += nums[i]
+            ans += memo[prefix - k]
+            memo[prefix] += 1
+        
         return ans
