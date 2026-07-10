@@ -116,6 +116,7 @@
 | [0622-design-circular-queue](https://github.com/devRnR/coding-test/tree/master/0622-design-circular-queue) |
 | [0724-find-pivot-index](https://github.com/devRnR/coding-test/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/devRnR/coding-test/tree/master/0739-daily-temperatures) |
+| [1314-matrix-block-sum](https://github.com/devRnR/coding-test/tree/master/1314-matrix-block-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/devRnR/coding-test/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/devRnR/coding-test/tree/master/1732-find-the-highest-altitude) |
 ## Breadth-First Search
@@ -146,6 +147,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/devRnR/coding-test/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/devRnR/coding-test/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/devRnR/coding-test/tree/master/0724-find-pivot-index) |
+| [1314-matrix-block-sum](https://github.com/devRnR/coding-test/tree/master/1314-matrix-block-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/devRnR/coding-test/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/devRnR/coding-test/tree/master/1732-find-the-highest-altitude) |
 ## Hash Table
@@ -167,6 +169,7 @@
 | [0085-maximal-rectangle](https://github.com/devRnR/coding-test/tree/master/0085-maximal-rectangle) |
 | [0289-game-of-life](https://github.com/devRnR/coding-test/tree/master/0289-game-of-life) |
 | [0304-range-sum-query-2d-immutable](https://github.com/devRnR/coding-test/tree/master/0304-range-sum-query-2d-immutable) |
+| [1314-matrix-block-sum](https://github.com/devRnR/coding-test/tree/master/1314-matrix-block-sum) |
 ## Simulation
 |  |
 | ------- |
