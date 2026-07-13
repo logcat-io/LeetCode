@@ -93,6 +93,7 @@
 | [0001-two-sum](https://github.com/devRnR/coding-test/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/devRnR/coding-test/tree/master/0014-longest-common-prefix) |
 | [0048-rotate-image](https://github.com/devRnR/coding-test/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/devRnR/coding-test/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/devRnR/coding-test/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/devRnR/coding-test/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/devRnR/coding-test/tree/master/0073-set-matrix-zeroes) |
@@ -150,6 +151,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/devRnR/coding-test/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/devRnR/coding-test/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/devRnR/coding-test/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/devRnR/coding-test/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/devRnR/coding-test/tree/master/0242-valid-anagram) |
@@ -177,6 +179,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/devRnR/coding-test/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/devRnR/coding-test/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/devRnR/coding-test/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/devRnR/coding-test/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/devRnR/coding-test/tree/master/0316-remove-duplicate-letters) |
 ## Trie
@@ -186,6 +189,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/devRnR/coding-test/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/devRnR/coding-test/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/devRnR/coding-test/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
