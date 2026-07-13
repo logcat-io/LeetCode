@@ -1,18 +1,18 @@
-from collections import defaultdict
-
 class Solution:
     def longestConsecutive(self, nums: List[int]) -> int:
         if len(nums) == 0:
             return 0
         
-        sorted_nums = sorted(nums)
-        count = defaultdict(int)
+        sorted_nums = sorted(set(nums))
 
-        for n in sorted_nums:
-            if n - 1 in count:
-                count[n] = count[n-1] + 1
+        ans = 0
+        count = 1
+        for i in range(1, len(sorted_nums)):
+            if sorted_nums[i] == sorted_nums[i-1]+1:
+                count += 1
             else:
-                count[n] = 1
+                ans = max(ans, count)
+                count = 1
 
-        return max(count.values())
+        return max(ans, count)
         
