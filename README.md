@@ -99,6 +99,7 @@
 | [0073-set-matrix-zeroes](https://github.com/devRnR/coding-test/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/devRnR/coding-test/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/devRnR/coding-test/tree/master/0085-maximal-rectangle) |
+| [0128-longest-consecutive-sequence](https://github.com/devRnR/coding-test/tree/master/0128-longest-consecutive-sequence) |
 | [0198-house-robber](https://github.com/devRnR/coding-test/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/devRnR/coding-test/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/devRnR/coding-test/tree/master/0238-product-of-array-except-self) |
@@ -153,6 +154,7 @@
 | [0001-two-sum](https://github.com/devRnR/coding-test/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/devRnR/coding-test/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/devRnR/coding-test/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/devRnR/coding-test/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/devRnR/coding-test/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/devRnR/coding-test/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/devRnR/coding-test/tree/master/0496-next-greater-element-i) |
@@ -192,4 +194,8 @@
 | [0049-group-anagrams](https://github.com/devRnR/coding-test/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/devRnR/coding-test/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/devRnR/coding-test/tree/master/0242-valid-anagram) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/devRnR/coding-test/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
