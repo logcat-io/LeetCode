@@ -159,6 +159,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/devRnR/coding-test/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/devRnR/coding-test/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/devRnR/coding-test/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/devRnR/coding-test/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/devRnR/coding-test/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/devRnR/coding-test/tree/master/0560-subarray-sum-equals-k) |
 ## Matrix
@@ -187,6 +188,7 @@
 | [0049-group-anagrams](https://github.com/devRnR/coding-test/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/devRnR/coding-test/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/devRnR/coding-test/tree/master/0316-remove-duplicate-letters) |
+| [0383-ransom-note](https://github.com/devRnR/coding-test/tree/master/0383-ransom-note) |
 ## Trie
 |  |
 | ------- |
@@ -201,4 +203,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/devRnR/coding-test/tree/master/0128-longest-consecutive-sequence) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/devRnR/coding-test/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
