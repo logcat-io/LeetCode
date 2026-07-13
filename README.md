@@ -4,11 +4,7 @@
 
 
 
-## Sorting
-|  |
-| ------- |
-| [0217-contains-duplicate](https://github.com/devRnR/coding-test/tree/master/0217-contains-duplicate) |
-| [0242-valid-anagram](https://github.com/devRnR/coding-test/tree/master/0242-valid-anagram) |
+
 ## Stack
 |  |
 | ------- |
@@ -187,4 +183,9 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/devRnR/coding-test/tree/master/0014-longest-common-prefix) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/devRnR/coding-test/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/devRnR/coding-test/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
