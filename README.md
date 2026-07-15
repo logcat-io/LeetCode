@@ -131,10 +131,12 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/devRnR/coding-test/tree/master/0002-add-two-numbers) |
+| [0146-lru-cache](https://github.com/devRnR/coding-test/tree/master/0146-lru-cache) |
 | [0622-design-circular-queue](https://github.com/devRnR/coding-test/tree/master/0622-design-circular-queue) |
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/devRnR/coding-test/tree/master/0146-lru-cache) |
 | [0303-range-sum-query-immutable](https://github.com/devRnR/coding-test/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/devRnR/coding-test/tree/master/0304-range-sum-query-2d-immutable) |
 | [0622-design-circular-queue](https://github.com/devRnR/coding-test/tree/master/0622-design-circular-queue) |
@@ -158,6 +160,7 @@
 | [0049-group-anagrams](https://github.com/devRnR/coding-test/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/devRnR/coding-test/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/devRnR/coding-test/tree/master/0128-longest-consecutive-sequence) |
+| [0146-lru-cache](https://github.com/devRnR/coding-test/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/devRnR/coding-test/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/devRnR/coding-test/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/devRnR/coding-test/tree/master/0347-top-k-frequent-elements) |
@@ -227,4 +230,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/devRnR/coding-test/tree/master/0347-top-k-frequent-elements) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/devRnR/coding-test/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
