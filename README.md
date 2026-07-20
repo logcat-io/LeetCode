@@ -192,6 +192,7 @@
 | [0014-longest-common-prefix](https://github.com/devRnR/coding-test/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/devRnR/coding-test/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/devRnR/coding-test/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/devRnR/coding-test/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/devRnR/coding-test/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/devRnR/coding-test/tree/master/0316-remove-duplicate-letters) |
 | [0383-ransom-note](https://github.com/devRnR/coding-test/tree/master/0383-ransom-note) |
@@ -238,6 +239,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/devRnR/coding-test/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devRnR/coding-test/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
 |  |
