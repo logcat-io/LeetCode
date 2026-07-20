@@ -5,24 +5,18 @@ class Solution:
         """
 
         n = len(nums)
-        left = 0
-        right = 1
-
-        for i in range(3):
-            right = left + 1
-
-            while right < n:
-                if nums[left] == i:
-                    left += 1
-                    right = left + 1
-                    continue
-
-                if nums[right] == i:
-                    nums[right], nums[left] = nums[left], nums[right]
-                    left += 1
-                
-                right += 1
-            
+        l, c = 0, 0
+        r = n - 1
+        while c <= r:
+            if nums[c] == 0:
+                nums[l],nums[c] = nums[c], nums[l]
+                l += 1
+                c += 1
+            elif nums[c] == 1:
+                c += 1
+            elif nums[c] == 2:
+                nums[r], nums[c] = nums[c], nums[r]
+                r -= 1
             
 
 
