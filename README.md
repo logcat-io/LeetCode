@@ -101,6 +101,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/devRnR/coding-test/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/devRnR/coding-test/tree/master/0085-maximal-rectangle) |
 | [0128-longest-consecutive-sequence](https://github.com/devRnR/coding-test/tree/master/0128-longest-consecutive-sequence) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/devRnR/coding-test/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/devRnR/coding-test/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/devRnR/coding-test/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/devRnR/coding-test/tree/master/0238-product-of-array-except-self) |
@@ -234,4 +235,12 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/devRnR/coding-test/tree/master/0146-lru-cache) |
+## Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/devRnR/coding-test/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/devRnR/coding-test/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
