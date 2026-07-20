@@ -6,19 +6,14 @@ class Solution:
         if len(nums) == 1:
             return
 
-        lo, hi = 0, 0
+        l = 0
         for i in range(len(nums)):
-            if nums[i] == 0:
-                lo = i
-                hi = i+1
-                break
+            if nums[i] != 0:
+                nums[l] = nums[i]
+                l += 1
         
-        while hi < len(nums):
-            if nums[hi] != 0:
-                nums[lo], nums[hi] = nums[hi], nums[lo]
-                lo += 1
-                hi += 1
-            else:
-                hi += 1
+        while l < len(nums):
+            nums[l] = 0
+            l += 1
 
         
