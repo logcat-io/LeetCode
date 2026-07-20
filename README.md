@@ -92,6 +92,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/devRnR/coding-test/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/devRnR/coding-test/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/devRnR/coding-test/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/devRnR/coding-test/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/devRnR/coding-test/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/devRnR/coding-test/tree/master/0049-group-anagrams) |
@@ -241,6 +242,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/devRnR/coding-test/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/devRnR/coding-test/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devRnR/coding-test/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/devRnR/coding-test/tree/master/0283-move-zeroes) |
