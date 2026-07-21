@@ -120,6 +120,7 @@
 | [0518-coin-change-ii](https://github.com/devRnR/coding-test/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/devRnR/coding-test/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/devRnR/coding-test/tree/master/0622-design-circular-queue) |
+| [0643-maximum-average-subarray-i](https://github.com/devRnR/coding-test/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/devRnR/coding-test/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/devRnR/coding-test/tree/master/0739-daily-temperatures) |
 | [0977-squares-of-a-sorted-array](https://github.com/devRnR/coding-test/tree/master/0977-squares-of-a-sorted-array) |
@@ -275,4 +276,5 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/devRnR/coding-test/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/devRnR/coding-test/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
