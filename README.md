@@ -72,6 +72,7 @@
 | [0085-maximal-rectangle](https://github.com/devRnR/coding-test/tree/master/0085-maximal-rectangle) |
 | [0198-house-robber](https://github.com/devRnR/coding-test/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/devRnR/coding-test/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/devRnR/coding-test/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/devRnR/coding-test/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/devRnR/coding-test/tree/master/0518-coin-change-ii) |
 ## Recursion
@@ -199,6 +200,7 @@
 | [0316-remove-duplicate-letters](https://github.com/devRnR/coding-test/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/devRnR/coding-test/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/devRnR/coding-test/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/devRnR/coding-test/tree/master/0392-is-subsequence) |
 ## Trie
 |  |
 | ------- |
@@ -252,6 +254,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devRnR/coding-test/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/devRnR/coding-test/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/devRnR/coding-test/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/devRnR/coding-test/tree/master/0392-is-subsequence) |
 ## Binary Search
 |  |
 | ------- |
