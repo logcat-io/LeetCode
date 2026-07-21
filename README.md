@@ -120,6 +120,7 @@
 | [0622-design-circular-queue](https://github.com/devRnR/coding-test/tree/master/0622-design-circular-queue) |
 | [0724-find-pivot-index](https://github.com/devRnR/coding-test/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/devRnR/coding-test/tree/master/0739-daily-temperatures) |
+| [0977-squares-of-a-sorted-array](https://github.com/devRnR/coding-test/tree/master/0977-squares-of-a-sorted-array) |
 | [1314-matrix-block-sum](https://github.com/devRnR/coding-test/tree/master/1314-matrix-block-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/devRnR/coding-test/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/devRnR/coding-test/tree/master/1732-find-the-highest-altitude) |
@@ -214,6 +215,7 @@
 | [0217-contains-duplicate](https://github.com/devRnR/coding-test/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/devRnR/coding-test/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/devRnR/coding-test/tree/master/0347-top-k-frequent-elements) |
+| [0977-squares-of-a-sorted-array](https://github.com/devRnR/coding-test/tree/master/0977-squares-of-a-sorted-array) |
 ## Union-Find
 |  |
 | ------- |
@@ -255,6 +257,7 @@
 | [0283-move-zeroes](https://github.com/devRnR/coding-test/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/devRnR/coding-test/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/devRnR/coding-test/tree/master/0392-is-subsequence) |
+| [0977-squares-of-a-sorted-array](https://github.com/devRnR/coding-test/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
