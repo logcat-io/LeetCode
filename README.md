@@ -176,6 +176,7 @@
 | [0383-ransom-note](https://github.com/devRnR/coding-test/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/devRnR/coding-test/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/devRnR/coding-test/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/devRnR/coding-test/tree/master/0567-permutation-in-string) |
 ## Matrix
 |  |
 | ------- |
@@ -207,6 +208,7 @@
 | [0344-reverse-string](https://github.com/devRnR/coding-test/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/devRnR/coding-test/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/devRnR/coding-test/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/devRnR/coding-test/tree/master/0567-permutation-in-string) |
 ## Trie
 |  |
 | ------- |
@@ -262,6 +264,7 @@
 | [0283-move-zeroes](https://github.com/devRnR/coding-test/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/devRnR/coding-test/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/devRnR/coding-test/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/devRnR/coding-test/tree/master/0567-permutation-in-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/devRnR/coding-test/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -276,5 +279,6 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/devRnR/coding-test/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/devRnR/coding-test/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/devRnR/coding-test/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
