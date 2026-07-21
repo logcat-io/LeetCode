@@ -4,14 +4,10 @@ class Solution:
             return True
 
         left = 0
-        right = 0
-
-        while left < len(s) and right < len(t):
-            if s[left] == t[right]:
+        for i in range(len(t)):
+            if left < len(s) and s[left] == t[i]:
                 left += 1
-                right += 1
-            else:
-                right += 1
+
         
         return left == len(s)
         
