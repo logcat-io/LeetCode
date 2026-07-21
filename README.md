@@ -70,6 +70,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/devRnR/coding-test/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/devRnR/coding-test/tree/master/0085-maximal-rectangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/devRnR/coding-test/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/devRnR/coding-test/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/devRnR/coding-test/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/devRnR/coding-test/tree/master/0392-is-subsequence) |
@@ -102,6 +103,7 @@
 | [0075-sort-colors](https://github.com/devRnR/coding-test/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/devRnR/coding-test/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/devRnR/coding-test/tree/master/0085-maximal-rectangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/devRnR/coding-test/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/devRnR/coding-test/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devRnR/coding-test/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/devRnR/coding-test/tree/master/0198-house-robber) |
