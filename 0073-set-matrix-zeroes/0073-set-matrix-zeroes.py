@@ -1,25 +1,23 @@
 class Solution:
     def setZeroes(self, matrix: List[List[int]]) -> None:
+        
         n = len(matrix)
         m = len(matrix[0])
 
-        mark = [[1] * m for _ in range(n)]
+        r = [0] * n
+        c = [0] * m
+
         for i in range(n):
             for j in range(m):
                 if not matrix[i][j]:
-                    mark[i][j] = 0
-
+                    r[i] = -1
+                    c[j] = -1
+        
         for i in range(n):
             for j in range(m):
-                if mark[i][j]:
-                    continue
-                
-                for w in range(n):
-                    matrix[w][j] = 0
-
-                for w in range(m):
-                    matrix[i][w] = 0
-
+                if r[i] == -1 or c[j] == -1:
+                    matrix[i][j] = 0
+      
         """
         Do not return anything, modify matrix in-place instead.
         """
