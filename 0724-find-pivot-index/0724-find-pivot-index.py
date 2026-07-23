@@ -1,18 +1,19 @@
 class Solution:
     def pivotIndex(self, nums: List[int]) -> int:
         n = len(nums)
-        total = sum(nums)
-        
-        # total = left + nums[i] + right
-        # 누적합에 대한 수식을 이용할 수 있다.
-        
-        left = 0
+
+        left = [0] * (n + 1)
         for i in range(n):
-            right = total - nums[i] - left
-            if left == right:
+            left[i+1] = left[i] + nums[i]
+        
+        right = [0] * (n + 1)
+        for i in range(n-1, -1, -1):
+            right[i] = right[i+1] + nums[i]
+
+
+        for i in range(n):
+            if left[i] == right[i+1]:
                 return i
-            
-            left += nums[i]
 
         return -1
 
