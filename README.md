@@ -52,10 +52,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/devRnR/coding-test/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/devRnR/coding-test/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0993-cousins-in-binary-tree](https://github.com/devRnR/coding-test/tree/master/0993-cousins-in-binary-tree) |
-## Depth-First Search
-|  |
-| ------- |
-| [0993-cousins-in-binary-tree](https://github.com/devRnR/coding-test/tree/master/0993-cousins-in-binary-tree) |
+
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Math
@@ -101,6 +98,7 @@
 | [0059-spiral-matrix-ii](https://github.com/devRnR/coding-test/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/devRnR/coding-test/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/devRnR/coding-test/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/devRnR/coding-test/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/devRnR/coding-test/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/devRnR/coding-test/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devRnR/coding-test/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -187,6 +185,7 @@
 | [0054-spiral-matrix](https://github.com/devRnR/coding-test/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/devRnR/coding-test/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/devRnR/coding-test/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/devRnR/coding-test/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/devRnR/coding-test/tree/master/0085-maximal-rectangle) |
 | [0289-game-of-life](https://github.com/devRnR/coding-test/tree/master/0289-game-of-life) |
 | [0304-range-sum-query-2d-immutable](https://github.com/devRnR/coding-test/tree/master/0304-range-sum-query-2d-immutable) |
@@ -204,6 +203,7 @@
 | [0014-longest-common-prefix](https://github.com/devRnR/coding-test/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/devRnR/coding-test/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/devRnR/coding-test/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/devRnR/coding-test/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/devRnR/coding-test/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/devRnR/coding-test/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/devRnR/coding-test/tree/master/0316-remove-duplicate-letters) |
@@ -287,4 +287,13 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/devRnR/coding-test/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/devRnR/coding-test/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/devRnR/coding-test/tree/master/0643-maximum-average-subarray-i) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/devRnR/coding-test/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/devRnR/coding-test/tree/master/0079-word-search) |
+| [0993-cousins-in-binary-tree](https://github.com/devRnR/coding-test/tree/master/0993-cousins-in-binary-tree) |
 <!---LeetCode Topics End-->
