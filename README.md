@@ -92,6 +92,7 @@
 | [0015-3sum](https://github.com/devRnR/coding-test/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/devRnR/coding-test/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/devRnR/coding-test/tree/master/0036-valid-sudoku) |
+| [0046-permutations](https://github.com/devRnR/coding-test/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/devRnR/coding-test/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/devRnR/coding-test/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/devRnR/coding-test/tree/master/0054-spiral-matrix) |
@@ -290,6 +291,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/devRnR/coding-test/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/devRnR/coding-test/tree/master/0079-word-search) |
 ## Depth-First Search
 |  |
