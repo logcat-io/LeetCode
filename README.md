@@ -60,6 +60,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/devRnR/coding-test/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/devRnR/coding-test/tree/master/0048-rotate-image) |
+| [0060-permutation-sequence](https://github.com/devRnR/coding-test/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/devRnR/coding-test/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/devRnR/coding-test/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
@@ -77,6 +78,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/devRnR/coding-test/tree/master/0002-add-two-numbers) |
+| [0060-permutation-sequence](https://github.com/devRnR/coding-test/tree/master/0060-permutation-sequence) |
 | [0509-fibonacci-number](https://github.com/devRnR/coding-test/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
