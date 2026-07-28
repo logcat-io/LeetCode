@@ -129,6 +129,7 @@
 | [1314-matrix-block-sum](https://github.com/devRnR/coding-test/tree/master/1314-matrix-block-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/devRnR/coding-test/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/devRnR/coding-test/tree/master/1732-find-the-highest-altitude) |
+| [2212-maximum-points-in-an-archery-competition](https://github.com/devRnR/coding-test/tree/master/2212-maximum-points-in-an-archery-competition) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -298,9 +299,18 @@
 | [0046-permutations](https://github.com/devRnR/coding-test/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/devRnR/coding-test/tree/master/0047-permutations-ii) |
 | [0079-word-search](https://github.com/devRnR/coding-test/tree/master/0079-word-search) |
+| [2212-maximum-points-in-an-archery-competition](https://github.com/devRnR/coding-test/tree/master/2212-maximum-points-in-an-archery-competition) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0079-word-search](https://github.com/devRnR/coding-test/tree/master/0079-word-search) |
 | [0993-cousins-in-binary-tree](https://github.com/devRnR/coding-test/tree/master/0993-cousins-in-binary-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2212-maximum-points-in-an-archery-competition](https://github.com/devRnR/coding-test/tree/master/2212-maximum-points-in-an-archery-competition) |
+## Enumeration
+|  |
+| ------- |
+| [2212-maximum-points-in-an-archery-competition](https://github.com/devRnR/coding-test/tree/master/2212-maximum-points-in-an-archery-competition) |
 <!---LeetCode Topics End-->
