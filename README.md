@@ -122,6 +122,7 @@
 | [0503-next-greater-element-ii](https://github.com/devRnR/coding-test/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/devRnR/coding-test/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/devRnR/coding-test/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/devRnR/coding-test/tree/master/0605-can-place-flowers) |
 | [0622-design-circular-queue](https://github.com/devRnR/coding-test/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/devRnR/coding-test/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/devRnR/coding-test/tree/master/0724-find-pivot-index) |
@@ -290,6 +291,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/devRnR/coding-test/tree/master/0011-container-with-most-water) |
 | [0316-remove-duplicate-letters](https://github.com/devRnR/coding-test/tree/master/0316-remove-duplicate-letters) |
+| [0605-can-place-flowers](https://github.com/devRnR/coding-test/tree/master/0605-can-place-flowers) |
 ## Sliding Window
 |  |
 | ------- |
