@@ -128,6 +128,7 @@
 | [0739-daily-temperatures](https://github.com/devRnR/coding-test/tree/master/0739-daily-temperatures) |
 | [0977-squares-of-a-sorted-array](https://github.com/devRnR/coding-test/tree/master/0977-squares-of-a-sorted-array) |
 | [1314-matrix-block-sum](https://github.com/devRnR/coding-test/tree/master/1314-matrix-block-sum) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/devRnR/coding-test/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/devRnR/coding-test/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/devRnR/coding-test/tree/master/1732-find-the-highest-altitude) |
 | [2212-maximum-points-in-an-archery-competition](https://github.com/devRnR/coding-test/tree/master/2212-maximum-points-in-an-archery-competition) |
