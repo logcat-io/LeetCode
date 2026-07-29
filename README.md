@@ -218,6 +218,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/devRnR/coding-test/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/devRnR/coding-test/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/devRnR/coding-test/tree/master/0567-permutation-in-string) |
+| [1768-merge-strings-alternately](https://github.com/devRnR/coding-test/tree/master/1768-merge-strings-alternately) |
 ## Trie
 |  |
 | ------- |
@@ -276,6 +277,7 @@
 | [0392-is-subsequence](https://github.com/devRnR/coding-test/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/devRnR/coding-test/tree/master/0567-permutation-in-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/devRnR/coding-test/tree/master/0977-squares-of-a-sorted-array) |
+| [1768-merge-strings-alternately](https://github.com/devRnR/coding-test/tree/master/1768-merge-strings-alternately) |
 ## Binary Search
 |  |
 | ------- |
