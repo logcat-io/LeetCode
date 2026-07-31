@@ -216,6 +216,7 @@
 | [0242-valid-anagram](https://github.com/devRnR/coding-test/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/devRnR/coding-test/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/devRnR/coding-test/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/devRnR/coding-test/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/devRnR/coding-test/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/devRnR/coding-test/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/devRnR/coding-test/tree/master/0424-longest-repeating-character-replacement) |
@@ -278,6 +279,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devRnR/coding-test/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/devRnR/coding-test/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/devRnR/coding-test/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/devRnR/coding-test/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/devRnR/coding-test/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/devRnR/coding-test/tree/master/0567-permutation-in-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/devRnR/coding-test/tree/master/0977-squares-of-a-sorted-array) |
