@@ -117,6 +117,7 @@
 | [0303-range-sum-query-immutable](https://github.com/devRnR/coding-test/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/devRnR/coding-test/tree/master/0304-range-sum-query-2d-immutable) |
 | [0322-coin-change](https://github.com/devRnR/coding-test/tree/master/0322-coin-change) |
+| [0334-increasing-triplet-subsequence](https://github.com/devRnR/coding-test/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/devRnR/coding-test/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/devRnR/coding-test/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/devRnR/coding-test/tree/master/0503-next-greater-element-ii) |
@@ -295,6 +296,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/devRnR/coding-test/tree/master/0011-container-with-most-water) |
 | [0316-remove-duplicate-letters](https://github.com/devRnR/coding-test/tree/master/0316-remove-duplicate-letters) |
+| [0334-increasing-triplet-subsequence](https://github.com/devRnR/coding-test/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/devRnR/coding-test/tree/master/0605-can-place-flowers) |
 ## Sliding Window
 |  |
